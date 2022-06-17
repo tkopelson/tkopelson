@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Python **Django**
 
-- 👨‍💻 My main programming lenguages are: [Python, Delphi(Pascal) and C++]
+- 👨‍💻 My main programming languages are: [Python, Delphi(Pascal) and C++]
 
 <br>
 <br>
