@@ -1,4 +1,4 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+<!-- ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif) -->
 <h1 align="center">Hi 👋, I'm tkopelson</h1>
 <h3 align="center">44,44% Electronics Engineer 👨‍💻</h3>
 <br>
