@@ -13,8 +13,6 @@
 
 - 👨‍💻 My main programming languages are: [Python, Delphi(Pascal) and C++]
 
-<br>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkopelson&show_icons=true&locale=en" alt="tkopelson" /></p>
