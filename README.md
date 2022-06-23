@@ -14,3 +14,5 @@
 - 👨‍💻 My main programming languages are: [Python, Pascal (Delphi) , and C++], but i've also used C, Matlab, HTML, MySQL for other projects or university subjects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkopelson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" alt="Coding" width="400" src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/11/webbbb.gif">
