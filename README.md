@@ -13,6 +13,6 @@
 - 👨‍💻 My main programming languages are: [Python, Pascal (Delphi) , and C++], but i've also used C, Matlab, HTML, MySQL for other projects or university subjects.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkopelson)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
