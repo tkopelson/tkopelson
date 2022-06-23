@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Python **Django**
 
-- <p align="left"> 👨‍💻 My main programming languages are: [Python, Pascal (Delphi) , and C++], but i've also used C, Matlab, HTML, MySQL for other projects or university subjects.<o/>
+- 👨‍💻 My main programming languages are: <br> [Python, Pascal (Delphi) , and C++], but i've also used C, Matlab, HTML, MySQL for other projects or university subjects.
 <br>
 
 
