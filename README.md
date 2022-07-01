@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **finishing my studies D:**
 
-- 🌱 I’m currently learning Python **Django**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 My main programming languages are: <br> [Python, Pascal (Delphi) , and C++], but i've also used C, Matlab, HTML, MySQL for other projects or university subjects.
 <br>
