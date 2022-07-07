@@ -1,17 +1,20 @@
 <!-- ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif) -->
-<h1 align="center">Hi 👋, I'm tkopelson</h1>
-<h3 align="center">47,22% Electronics Engineer 👨‍💻</h3>
-<br>
-<img align="right" alt="Coding" width="400" src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/11/webbbb.gif">
-<br>
-<br>
+<h1 text-align="left">Hi 👋, I'm tkopelson</h1>
+<h3 text-align="center">47,22% Electronics Engineer 👨‍💻</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkopelson&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="tkopelson" /></p>
 
-- 🔭 I’m currently working on **finishing my studies D:**
-
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 My main programming languages are: <br> [Python, Pascal (Delphi) , and C++], but i've also used C, Matlab, HTML, MySQL for other projects or university subjects.
 <br>
+<p text-align="left" text-align= "justify">
+🔭 I’m currently working on finishing my studies D: </p>
+
+<p text-align="left" text-align= "justify">🌱 I’m currently learning Django </p>
+
+<p text-align="left" text-align= "justify">👨‍💻 My main programming languages are:  Python, Pascal , and C++. But i've also used C, Matlab, HTML, MySQL for other projects or university subjects. 
+</p>
+
+
+
+
 
 
 
