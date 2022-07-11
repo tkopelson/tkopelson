@@ -9,7 +9,7 @@
 
 <p text-align="left" text-align= "justify">🌱 I’m currently learning Django </p>
 
-<p text-align="left" text-align= "justify">👨‍💻 I have worked with Python, Pascal, C++, C, MySQL, HTML, CSS, Matlab for projects or university subjects. 
+<p text-align="left" text-align= "justify">👨‍💻 I have worked with Python, Delphi (Pascal), C++, C, MySQL, HTML, CSS, Matlab for projects or university subjects. 
 </p>
 
 
