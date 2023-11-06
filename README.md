@@ -5,9 +5,9 @@
 
 <br>
 <p text-align="left" text-align= "justify">
-🔭 I’m currently working on: Force Feedback Steering Wheel for Simracing </p>
+🔭 I’m currently working on: Simracing project (Interaction of Arduino I/O with sensors, buttons, DC motors, and encoders), in order to design, build and code a device similar to the mid/high-end simulators on the current market. </p>
 
-<p text-align="left" text-align= "justify">🌱 I’m currently learning Arduino I/O interaction with sensors, buttons, DC motors and encoders </p>
+<p text-align="left" text-align= "justify">🌱 I’m currently learning : Arduino I/O, DC motor control, creation of functional HID devices for Windows. </p>
 
 <p text-align="left" text-align= "justify">👨‍💻 I have worked with Python, Delphi (Pascal), C++, C, MySQL, HTML, CSS, Matlab for projects or university subjects. 
 </p>
