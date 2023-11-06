@@ -7,7 +7,7 @@
 <p text-align="left" text-align= "justify">
 🔭 I’m currently working on: Force Feedback Steering Wheel for Simracing </p>
 
-<p text-align="left" text-align= "justify">🌱 I’m currently learning Arduino I/O interaction with sensors, buttons and encoders </p>
+<p text-align="left" text-align= "justify">🌱 I’m currently learning Arduino I/O interaction with sensors, buttons, DC motors and encoders </p>
 
 <p text-align="left" text-align= "justify">👨‍💻 I have worked with Python, Delphi (Pascal), C++, C, MySQL, HTML, CSS, Matlab for projects or university subjects. 
 </p>
