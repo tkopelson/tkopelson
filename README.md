@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif) -->
 <h1 text-align="left">Hi 👋, I'm tkopelson</h1>
-<h3 text-align="center">Advanced Electronics Engineer Student 👨‍💻</h3>
+<h3 text-align="center">Almost Electronics Engineering :D 👨‍💻</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkopelson&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="tkopelson" /></p>
 
 <br>
